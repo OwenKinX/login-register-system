@@ -1,3 +1,7 @@
 {
-    "uri": "mysql://uszmhfhqxbdsqtph:r0GCISBAhFXbF1DwjLRl@bwudspdlrkfnym5xqjwa-mysql.services.clever-cloud.com:3306/bwudspdlrkfnym5xqjwa"
+    "host": "localhost",
+    "user": "laogw",
+    "password": "Abc@2022",
+    "database": "laogwdb",
+    "port": 3306
 }
